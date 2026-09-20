@@ -19,8 +19,9 @@ Other platform packages will be published when they are built and verified on th
 - Open notifications, private messages, profiles, search, and account settings in the app.
 - Use native desktop notifications and a responsive desktop layout.
 
-See the [project landing page](https://github.com/Fleishigs/jtechforums-desktop-releases) for the animated feature overview. No member-account screenshots are used.
+See the [project landing page](https://fleishigs.github.io/jtechforums-desktop-releases/) for the animated feature overview. No member-account screenshots are used.
 
 ## Support and credits
 
 The app is free to use. Optional support: [Buy Me a Coffee](https://buymeacoffee.com/samsclub). The app is independently made by [Fleishigs](https://github.com/Fleishigs) for JTech Forums members.
+
