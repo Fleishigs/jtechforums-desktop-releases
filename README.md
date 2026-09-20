@@ -4,13 +4,13 @@
 
 A native desktop companion for JTech Forums. This public repository contains the animated, screenshot-free landing page and installable releases. The Kotlin Multiplatform source is maintained privately.
 
-## Download
+## Download 0.2.5
 
-**[Download the latest Windows installer](https://github.com/Fleishigs/jtechforums-desktop-releases/releases/latest)**
+- **Windows:** [JTechForums-0.2.5.msi](https://github.com/Fleishigs/jtechforums-desktop-releases/releases/download/v0.2.5/JTechForums-0.2.5.msi)
+- **macOS:** [JTechForums-1.2.5.dmg](https://github.com/Fleishigs/jtechforums-desktop-releases/releases/download/v0.2.5/JTechForums-1.2.5.dmg)
+- **Linux (Debian/Ubuntu, x86_64):** [jtechforums_0.2.5_amd64.deb](https://github.com/Fleishigs/jtechforums-desktop-releases/releases/download/v0.2.5/jtechforums_0.2.5_amd64.deb)
 
-The Windows installer adds JTech Forums to Start and creates a shortcut. The first run opens the app sign-in flow. Installers are community-built and are not official JTech Forums organization releases.
-
-Other platform packages will be published when they are built and verified on their target operating systems.
+[Release notes and SHA-256 checksums](https://github.com/Fleishigs/jtechforums-desktop-releases/releases/tag/v0.2.5). Windows may display a publisher warning because the installer is not code-signed. macOS may ask the user to approve opening an app downloaded from the internet. The app is community-built and is not an official JTech Forums organization release.
 
 ## What it does
 
@@ -19,9 +19,8 @@ Other platform packages will be published when they are built and verified on th
 - Open notifications, private messages, profiles, search, and account settings in the app.
 - Use native desktop notifications and a responsive desktop layout.
 
-See the [project landing page](https://fleishigs.github.io/jtechforums-desktop-releases/) for the animated feature overview. No member-account screenshots are used.
+See the [animated project landing page](https://fleishigs.github.io/jtechforums-desktop-releases/) for the feature overview. No member-account screenshots are used.
 
 ## Support and credits
 
 The app is free to use. Optional support: [Buy Me a Coffee](https://buymeacoffee.com/samsclub). The app is independently made by [Fleishigs](https://github.com/Fleishigs) for JTech Forums members.
-
